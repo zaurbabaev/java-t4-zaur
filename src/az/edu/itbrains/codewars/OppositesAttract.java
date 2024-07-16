@@ -1,4 +1,4 @@
-//package az.itbrains.codewars;
+//package az.edu.itbrains.codewars;
 //
 ///*
 //Timmy & Sarah think they are in love, but around where they live, they will only know once they pick a
@@ -10,7 +10,7 @@
 // */
 //public class OppositesAttract {
 //    public static boolean isLove(final int flower1, final int flower2) {
-//        return (flower1 % 2 == 0 && flower2 % 2 != 0);
+//        return (flower1 % 2 != 1 && flower2 % 2 == 1);
 //    }
 //
 //    public static void main(String[] args) {
